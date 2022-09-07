@@ -65,10 +65,12 @@ input:focus {
 .start_but,
 .pause_but {
   margin-left: -25px;
+  margin-bottom: 5px;
 }
 
 .reset_but{
 	margin-right: 0px;
+  margin-bottom: 5px;
 }
 
 .timer-extension-hidden {
