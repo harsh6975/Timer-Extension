@@ -17,6 +17,7 @@ However you can you use the timer on any website by pressing <kbd>ctrl</kbd><kbd
 The default time is 30 minutes, which can be configured by hovering the cursor over time while timer is not running.
 
 You can drag the timer by clicking the Timer header.
+It also contains dark and light mode.
 
 ### Key bindings :
 
