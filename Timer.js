@@ -49,8 +49,8 @@ class Timer {
         minsInput.disabled = false
         secsInput.disabled = false
         startBtn.classList.remove("timer-extension-hidden")
-        this.currMins = this.mins
-        this.currSecs = this.secs
+        this.currMins = "30"
+        this.currSecs = "00"
     }
 
 }

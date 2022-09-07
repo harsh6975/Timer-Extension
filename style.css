@@ -62,14 +62,19 @@ input:focus {
   border-radius: 5px;
 }
 
-.start_but,
-.pause_but {
+.start_but {
   margin-left: -25px;
   margin-bottom: 5px;
 }
 
-.reset_but{
-	margin-right: 0px;
+.pause_but{
+  margin-left: -15px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+}
+
+.reset_but {
+  margin-right: 0px;
   margin-bottom: 5px;
 }
 
